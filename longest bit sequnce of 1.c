@@ -1,5 +1,4 @@
 /*
-Zadanie 1
 
 A non-negative integer N is Given. The Maximal binary ones stretch of N is the length of the longest sequence of consecutive bits set to 1 in the binary representation of N. For ex ample, consider N=114,067. Its binary representation is 11011110110010011. Its Maxima binary ones stretch is equal to 4. 
 Write a function:
@@ -8,7 +7,7 @@ That, given a non-negative integer N, returns the maximal binary ones stretch of
 For ex ample, given N=114,067, the function should return 4, as explained above.
 Assume that:
 N is an integer within the range [0..2,147,483,647].
-In your solution, fokus on correctness. The performance of your solution will not be the fokus of the assessment.
+
 */
 
 
